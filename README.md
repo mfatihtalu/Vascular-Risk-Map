@@ -5,4 +5,5 @@ It is an important issue to reach the target point in the brain safely. It is ai
 
 ![image](https://github.com/user-attachments/assets/6d6f025e-e982-4840-9c43-afa4c758cd71)
 
-Cite: Şahin, M., Talu, M. F., & Öztürk, S. (2025). Stereotaktik Girişimlerde Trajeksiyon Oluşturmak için Vasküler Risk Haritasının Otomatik Üretilmesi. Fırat Üniversitesi Mühendislik Bilimleri Dergisi, 37(1), 411-421. https://doi.org/10.35234/fumbd.1602191
+Cite: Şahin, M., Talu, M. F., & Öztürk, S. (2025). Automatic Generation of Vascular Risk Maps for Trajectory Planning in Stereotactic
+Interventions. Firat University Journal of Engineering Sciences, 37(1), 411-421. https://doi.org/10.35234/fumbd.1602191
